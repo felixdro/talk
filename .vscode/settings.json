@@ -54,5 +54,5 @@
     "d\\.ts$",
     "__generated__"
   ],
-  "debug.node.autoAttach": "on",
+  "debug.node.autoAttach": "off",
 }
